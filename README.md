@@ -1,7 +1,7 @@
 Theme Categories
 ================
 
-Separate you themes by folders and use this plugin to filter them in the dashboard.
+Separate your themes by folders and use this plugin to filter them in the dashboard.
 
 Based on this [WordPress Answer](http://wordpress.stackexchange.com/a/96689/12615)
 
