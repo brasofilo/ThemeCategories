@@ -7,4 +7,4 @@ Based on this [WordPress Answer](http://wordpress.stackexchange.com/a/96689/1261
 
 When there are more than 36 themes, it's necessary to use the button `reset` after each page load (this admin screen uses Infinite Loading).
 
-![plugin in action](https://raw.github.com/brasofilo/ThemeCategories/master/screenshot.png)
+![plugin in action](https://raw.github.com/brasofilo/ThemeCategories/master/snapshot.png)
